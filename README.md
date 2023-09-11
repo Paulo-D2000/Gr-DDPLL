@@ -1,5 +1,5 @@
 # Gr-DDPLL
-Gnuradio Python Decision directed PLL for Carrier Recovery on M-PSK / M-APSK and M-QAM signals.
+Gnuradio Decision directed PLL  Embedded Python Block for Carrier Recovery on M-PSK / M-APSK and M-QAM signals.
 
 Decision Directed PLL - Decision Directed based carrier recovery pll
 
